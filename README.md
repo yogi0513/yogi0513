@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogi0513
 - 👀 I’m interested in software testing, software developer, data analyst
-- 🌱 I’m currently learning c/python/SQL
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on project
 - 📫 yogendraburkul0513@gmail.com
 
